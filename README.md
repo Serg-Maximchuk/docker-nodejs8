@@ -3,8 +3,8 @@ Docker and nodejs 8 together
 
 Usage:
 
-FROM serhiimaksymchuk/docker-nodejs8:latest
+`FROM serhiimaksymchuk/docker-nodejs8:latest`
 
 or in docker-compose:
 
-image: serhiimaksymchuk/docker-nodejs8:latest
+`image: serhiimaksymchuk/docker-nodejs8:latest`
